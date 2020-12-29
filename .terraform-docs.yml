@@ -1,0 +1,6 @@
+formatter: markdown table
+header-from: .terraform-docs.md
+sort:
+  enabled: true
+  by:
+    - required
